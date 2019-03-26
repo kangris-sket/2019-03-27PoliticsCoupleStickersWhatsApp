@@ -1,475 +1,1301 @@
 {
-  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.valentine.stickers",
+  "android_play_store_link": "https://play.google.com/store/apps/developer?id=com.wastickerapps.politicsstickers",
   "ios_app_store_link": "",
-  "sticker_packs": [
-
+  "sticker_packs" : [
     {
-      "identifier": "love-sticker",
-      "name": "Love Stickers",
-      "publisher": "Captain Flint",
-      "tray_image_file": "1.png",
+      "identifier": "1",
+      "name": "Modi",
+ "publisher": "The Captain Flint",
+      "tray_image_file": "tray_modi.png",
       "publisher_email":"",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "1.webp",
-          "emojis": ["☕","🙂"]
+          "image_file": "modi_01.webp",
+          "emojis": ["ðŸ”«"]
         },
         {
-          "image_file": "2.webp",
-          "emojis": ["😄","😀"]
+          "image_file": "modi_02.webp",
+          "emojis": ["ðŸ‘€"]
         },
         {
-          "image_file": "3.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "modi_03.webp",
+          "emojis": ["ðŸ¸"]
         },
         {
-          "image_file": "4.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "modi_04.webp",
+          "emojis": ["ðŸ‘€"]
         },
         {
-          "image_file": "5.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "modi_05.webp",
+          "emojis": ["ðŸ”«"]
         },
         {
-          "image_file": "6.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "modi_06.webp",
+          "emojis": ["ðŸ“¯"]
         },
         {
-          "image_file": "7.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "modi_07.webp",
+          "emojis": ["ðŸ”«"]
         },
         {
-          "image_file": "8.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "modi_08.webp",
+          "emojis": ["ðŸ˜›"]
         },
         {
-          "image_file": "9.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "modi_09.webp",
+          "emojis": ["ðŸ˜¡"]
         },
         {
-          "image_file": "10.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "modi_10.webp",
+          "emojis": ["ðŸ•¶"]
         },
         {
-          "image_file": "11.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "modi_11.webp",
+          "emojis": ["ðŸ§¢"]
         },
         {
-          "image_file": "12.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "modi_12.webp",
+          "emojis": ["ðŸ•¶"]
         },
         {
-          "image_file": "13.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "modi_13.webp",
+          "emojis": ["ðŸ§¢"]
         },
         {
-          "image_file": "14.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "modi_14.webp",
+          "emojis": ["ðŸ§¢"]
         },
         {
-          "image_file": "15.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "modi_15.webp",
+          "emojis": ["ðŸ•¶"]
         },
         {
-          "image_file": "16.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "modi_16.webp",
+          "emojis": ["ðŸš¬"]
         },
         {
-          "image_file": "17.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "modi_17.webp",
+          "emojis": ["ðŸš¬"]
         },
         {
-          "image_file": "18.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "modi_18.webp",
+          "emojis": ["ðŸ˜Ž"]
         },
         {
-          "image_file": "19.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "modi_19.webp",
+          "emojis": ["ðŸ˜Ž"]
         },
         {
-          "image_file": "20.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "modi_20.webp",
+          "emojis": ["â›“"]
         },
         {
-          "image_file": "21.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "modi_21.webp",
+          "emojis": ["â›“"]
         },
         {
-          "image_file": "22.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "modi_22.webp",
+          "emojis": ["ðŸ˜Ž"]
         },
         {
-          "image_file": "23.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "modi_23.webp",
+          "emojis": ["ðŸ•¶"]
         },
         {
-          "image_file": "24.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "modi_24.webp",
+          "emojis": ["ðŸš¬"]
         },
         {
-          "image_file": "25.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "modi_25.webp",
+          "emojis": ["ðŸš¬"]
+        },
+        {
+          "image_file": "modi_26.webp",
+          "emojis": ["ðŸ˜Ž"]
         }
       ]
     },
-
     {
-      "identifier": "love-story",
-      "name": "Love Story",
-      "publisher": "Captain Flint",
-      "tray_image_file": "12.png",
+      "identifier": "2",
+      "name": "Rahul Gandhi",
+ "publisher": "The Captain Flint",
+      "tray_image_file": "rahul_gandhi_tray.png",
       "publisher_email":"",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "1.webp",
-          "emojis": ["☕","🙂"]
+          "image_file": "rahul_gandhi_01.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "2.webp",
-          "emojis": ["😄","😀"]
+          "image_file": "rahul_gandhi_02.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "3.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "rahul_gandhi_03.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "4.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "rahul_gandhi_04.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "5.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "rahul_gandhi_05.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "6.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "rahul_gandhi_06.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "7.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "rahul_gandhi_07.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "8.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "rahul_gandhi_08.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "9.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "rahul_gandhi_09.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "10.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "rahul_gandhi_10.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "11.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "rahul_gandhi_11.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "12.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "rahul_gandhi_12.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "13.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "rahul_gandhi_13.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "14.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "rahul_gandhi_14.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "15.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "rahul_gandhi_15.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "16.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "rahul_gandhi_16.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "17.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "rahul_gandhi_17.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "18.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "rahul_gandhi_18.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "19.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "rahul_gandhi_19.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "20.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "rahul_gandhi_20.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "21.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "rahul_gandhi_21.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "rahul_gandhi_22.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "rahul_gandhi_23.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "rahul_gandhi_24.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "rahul_gandhi_25.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "rahul_gandhi_26.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "rahul_gandhi_27.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "rahul_gandhi_28.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "rahul_gandhi_29.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "rahul_gandhi_30.webp",
+          "emojis": ["😊"]
         }
       ]
     },
-
     {
-      "identifier": "love-emoji",
-      "name": "Love Emoji",
-      "publisher": "Captain Flint",
-      "tray_image_file": "2.png",
+      "identifier": "3",
+      "name": "Amit Shah",
+ "publisher": "The Captain Flint",
+      "tray_image_file": "amit_shah_tray.png",
       "publisher_email":"",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "1.webp",
-          "emojis": ["☕","🙂"]
+          "image_file": "amit_shah_01.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "2.webp",
-          "emojis": ["😄","😀"]
+          "image_file": "amit_shah_02.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "3.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "amit_shah_03.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "4.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "amit_shah_04.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "5.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "amit_shah_05.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "6.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "amit_shah_06.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "7.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "amit_shah_07.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "8.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "amit_shah_08.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "9.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "amit_shah_09.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "10.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "amit_shah_10.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "11.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "amit_shah_11.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "12.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "amit_shah_12.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "13.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "amit_shah_13.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "14.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "amit_shah_14.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "15.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "amit_shah_15.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "16.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "amit_shah_16.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "17.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "amit_shah_17.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "18.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "amit_shah_18.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "19.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "amit_shah_19.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "20.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "amit_shah_20.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "21.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "amit_shah_21.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "22.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "amit_shah_22.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "23.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "amit_shah_23.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "24.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "amit_shah_24.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "25.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "amit_shah_25.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "26.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "amit_shah_26.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "27.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "amit_shah_27.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "28.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "amit_shah_28.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "29.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "amit_shah_29.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "amit_shah_30.webp",
+          "emojis": ["😊"]
         }
       ]
     },
-
     {
-      "identifier": "love-stickers",
-      "name": "Love Stickers",
-      "publisher": "Captain Flint",
-      "tray_image_file": "1.png",
+      "identifier": "4",
+      "name": "Arvind Kejriwal",
+ "publisher": "The Captain Flint",
+      "tray_image_file": "arvind_tray.png",
       "publisher_email":"",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "1.webp",
-          "emojis": ["☕","🙂"]
+          "image_file": "arvind_01.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "2.webp",
-          "emojis": ["😄","😀"]
+          "image_file": "arvind_02.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "3.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "arvind_03.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "4.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "arvind_04.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "5.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "arvind_05.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "6.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "arvind_06.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "7.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "arvind_07.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "8.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "arvind_08.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "9.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "arvind_09.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "10.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "arvind_10.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "11.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "arvind_11.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "12.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "arvind_12.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "13.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "arvind_13.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "14.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "arvind_14.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "15.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "arvind_15.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "16.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "arvind_16.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "arvind_17.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "arvind_18.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "arvind_19.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "arvind_20.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "arvind_21.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "arvind_22.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "arvind_23.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "arvind_24.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "arvind_25.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "arvind_26.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "arvind_27.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "arvind_28.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "arvind_29.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "arvind_30.webp",
+          "emojis": ["😊"]
         }
       ]
     },
-
     {
-      "identifier": "love-birds",
-      "name": "Love Birds",
-      "publisher": "Captain Flint",
-      "tray_image_file": "3.png",
+      "identifier": "5",
+      "name": "Lalu Prasad Yadav",
+ "publisher": "The Captain Flint",
+      "tray_image_file": "lalu_tray.png",
       "publisher_email":"",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "1.webp",
-          "emojis": ["☕","🙂"]
+          "image_file": "lalu_01.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "2.webp",
-          "emojis": ["😄","😀"]
+          "image_file": "lalu_02.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "3.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "lalu_03.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "4.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "lalu_04.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "5.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "lalu_05.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "6.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "lalu_06.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "7.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "lalu_07.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "8.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "lalu_08.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "9.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "lalu_09.webp",
+          "emojis": ["😊"]
         },
         {
-          "image_file": "10.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "lalu_10.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "lalu_11.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "lalu_12.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "lalu_13.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "lalu_14.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "lalu_15.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "lalu_16.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "lalu_17.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "lalu_18.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "lalu_19.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "lalu_20.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "lalu_21.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "lalu_22.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "lalu_23.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "lalu_24.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "lalu_25.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "lalu_26.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "lalu_27.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "lalu_28.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "lalu_29.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "lalu_30.webp",
+          "emojis": ["😊"]
         }
       ]
-    }
-  ]
+    },
+    {
+      "identifier": "6",
+      "name": "Mamata Banerjee",
+ "publisher": "The Captain Flint",
+      "tray_image_file": "mamata_tray.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "mamata_01.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "mamata_02.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "mamata_03.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "mamata_04.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "mamata_05.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "mamata_06.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "mamata_07.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "mamata_08.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "mamata_09.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "mamata_10.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "mamata_11.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "mamata_12.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "mamata_13.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "mamata_14.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "mamata_15.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "mamata_16.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "mamata_17.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "mamata_18.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "mamata_19.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "mamata_20.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "mamata_21.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "mamata_22.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "mamata_23.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "mamata_24.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "mamata_25.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "mamata_26.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "mamata_27.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "mamata_28.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "mamata_29.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "mamata_30.webp",
+          "emojis": ["😊"]
+        }
+      ]
+    },
+    {
+      "identifier": "7",
+      "name": "Mayawati and Akhilesh",
+ "publisher": "The Captain Flint",
+      "tray_image_file": "akhilesh_tray.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "akhilesh_01.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "akhilesh_02.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "akhilesh_03.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "akhilesh_04.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "akhilesh_05.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "akhilesh_06.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "akhilesh_07.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "akhilesh_08.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "akhilesh_09.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "akhilesh_10.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "akhilesh_11.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "akhilesh_12.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "akhilesh_13.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "akhilesh_14.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "akhilesh_15.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "akhilesh_16.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "akhilesh_17.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "akhilesh_18.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "akhilesh_19.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "akhilesh_20.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "akhilesh_21.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "akhilesh_22.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "akhilesh_23.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "akhilesh_24.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "akhilesh_25.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "akhilesh_26.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "akhilesh_27.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "akhilesh_28.webp",
+          "emojis": ["😊"]
+        }
+      ]
+    },
+    {
+      "identifier": "8",
+      "name": "Smriti and Sidhu",
+ "publisher": "The Captain Flint",
+      "tray_image_file": "sidhu_tray.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "sidhu_01.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sidhu_02.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sidhu_03.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sidhu_04.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sidhu_05.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sidhu_06.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sidhu_07.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sidhu_08.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sidhu_09.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sidhu_10.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sidhu_11.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sidhu_12.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sidhu_13.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sidhu_14.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sidhu_15.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sidhu_16.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sidhu_17.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sidhu_18.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sidhu_19.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sidhu_20.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sidhu_21.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sidhu_22.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sidhu_23.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sidhu_24.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sidhu_25.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sidhu_26.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sidhu_27.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sidhu_28.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sidhu_29.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sidhu_30.webp",
+          "emojis": ["😊"]
+        }
+      ]
+    },
+    {
+      "identifier": "9",
+      "name": "Sonia Gandhi",
+ "publisher": "The Captain Flint",
+      "tray_image_file": "sonia_tray.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "sonia_01.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sonia_02.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sonia_03.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sonia_04.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sonia_05.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sonia_06.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sonia_07.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sonia_08.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sonia_09.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sonia_10.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sonia_11.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sonia_12.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sonia_13.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sonia_14.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sonia_15.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sonia_16.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sonia_17.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sonia_18.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sonia_19.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sonia_20.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sonia_21.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sonia_22.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sonia_23.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sonia_24.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sonia_25.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sonia_26.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sonia_27.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sonia_28.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sonia_29.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "sonia_30.webp",
+          "emojis": ["😊"]
+        }
+      ]
+    },
+    {
+      "identifier": "10",
+      "name": "Yogi Adityanath",
+ "publisher": "The Captain Flint",
+      "tray_image_file": "yogi_tray.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "yogi_01.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "yogi_02.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "yogi_03.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "yogi_04.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "yogi_05.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "yogi_06.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "yogi_07.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "yogi_08.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "yogi_09.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "yogi_10.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "yogi_11.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "yogi_12.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "yogi_13.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "yogi_14.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "yogi_15.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "yogi_16.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "yogi_17.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "yogi_18.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "yogi_19.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "yogi_20.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "yogi_21.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "yogi_22.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "yogi_23.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "yogi_24.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "yogi_25.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "yogi_26.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "yogi_27.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "yogi_28.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "yogi_29.webp",
+          "emojis": ["😊"]
+        },
+        {
+          "image_file": "yogi_30.webp",
+          "emojis": ["😊"]
+        }
+      ]
+    } ]
 }
