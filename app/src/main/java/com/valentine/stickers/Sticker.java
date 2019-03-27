@@ -16,6 +16,7 @@ import java.util.List;
 class Sticker implements Parcelable {
     String imageFileName;
     //hiii this is local comment.
+
     List<String> emojis;
     long size;
 
